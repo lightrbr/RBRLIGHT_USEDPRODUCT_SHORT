@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>RBR Light — Used Catalog</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="header">
+    <div class="brand">
+      <div class="logo">RBR</div>
+      <div>
+        <div class="title">Used Catalog</div>
+        <div class="subtitle">Photo • Name • Price (EUR)</div>
+      </div>
+    </div>
+
+    <div class="controls">
+      <input id="q" type="search" placeholder="Search by name…" />
+      <select id="sort">
+        <option value="relevance">Sort: relevance</option>
+        <option value="az">Sort: A → Z</option>
+        <option value="za">Sort: Z → A</option>
+        <option value="priceAsc">Price: low to high</option>
+        <option value="priceDesc">Price: high to low</option>
+      </select>
+      <button id="reset" class="btn">Reset</button>
+    </div>
+  </header>
+
+  <main class="main">
+    <div class="meta">
+      <div id="count"></div>
+    </div>
+
+    <section id="grid" class="grid" aria-live="polite"></section>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>
