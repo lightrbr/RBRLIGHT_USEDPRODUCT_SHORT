@@ -1,156 +1,227 @@
 [
   {
-    "item": "",
-    "product": "T-REX H 7 MT",
-    "quantity": 1,
-    "price_eur": 28000,
-    "photo": "assets/used-t-rex-h-7-mt.jpg"
-  },
-  {
     "item": "RBR 012",
-    "product": "GIRAF",
+    "product": "GIRAFFE",
+    "photo": "assets/used-rbr-012-giraffe-3.jpg",
     "quantity": 2,
-    "price_eur": 6000,
-    "photo": "assets/used-giraf.jpg"
-  },
-  {
-    "item": "RBR 050",
-    "product": "SWEET TEDDY",
-    "quantity": 1,
-    "price_eur": 9000,
-    "photo": "assets/used-sweet-teddy.jpg"
+    "price": 6000,
+    "details": "Size in meters\n6,00 x 4,40 x 1,30 (height x Lenght x Depth)\n\nStructure and Materials\nGold Aluminum Structure\nSheet Metal \nLed strings \n\nNumber of Leds\n6700\n\nPower Consuption\n485 Watts",
+    "media": "https://1drv.ms/f/s!Apo1GIZ6idp6g3jy3fhYl5EvXaH9?e=Lwgbpa"
   },
   {
     "item": "",
-    "product": "BALL GATE",
+    "product": "SITTING TREE",
+    "photo": "assets/used-sitting-tree-3.jpg",
     "quantity": 1,
-    "price_eur": 5500,
-    "photo": "assets/used-ball-gate.jpg"
+    "price": 5000,
+    "details": "Size in meters\n3,7 x 3 x 0,7 (height x Lenght x Depth)\n\nStructure and Materials\nMirror Gold Aluminum Structure\nLed strings \n\nNumber of Leds\n\nPower Consuption",
+    "media": ""
   },
   {
     "item": "",
-    "product": "SLEIGHT SANTA WITH REINDEER",
+    "product": "COMPOSITION GIFT BOXES",
+    "photo": "assets/used-composition-gift-boxes-3.jpg",
     "quantity": 1,
-    "price_eur": 16000,
-    "photo": "assets/used-sleight-santa-with-reindeer.jpg"
+    "price": 1800,
+    "details": "Size in meters\n130 - 90 - 55 cm (height)\n\nStructure and Materials\nMirror Gold Aluminum Structure\nLed strings\nRope Light\nPVC Balls \n\nNumber of Leds\n\nPower Consuption",
+    "media": ""
   },
   {
     "item": "",
-    "product": "SITTING TREE H3,7 MT",
+    "product": "BALLS COMPOSITION",
+    "photo": "assets/used-balls-composition-3.jpg",
     "quantity": 1,
-    "price_eur": 5000,
-    "photo": "assets/used-sitting-tree-h37-mt.jpg"
-  },
-  {
-    "item": "",
-    "product": "COMPOSITION GIFT BOXES (H130 H90 H55 cm)",
-    "quantity": 1,
-    "price_eur": 1800,
-    "photo": "assets/used-composition-gift-boxes-h130-h90-h55-cm.jpg"
-  },
-  {
-    "item": "",
-    "product": "BALLS COMPOSITION (H288 cm)",
-    "quantity": 1,
-    "price_eur": 2400,
-    "photo": "assets/used-balls-composition-h288-cm.jpg"
+    "price": 2400,
+    "details": "Size in meters\n2,88  (height)\n\nStructure and Materials\nGold Aluminum Structure\nCarpet\nLed strings \nRope Light\n\nNumber of Leds\n\nPower Consuption",
+    "media": ""
   },
   {
     "item": "",
     "product": "CHRISTMAS BALL",
+    "photo": "assets/used-christmas-ball-3.jpg",
     "quantity": 1,
-    "price_eur": 2500,
-    "photo": "assets/used-christmas-ball.jpg"
+    "price": 2500,
+    "details": "Size in meters\n2,5 x 2 x 2 (height x Lenght x Depth)\n\nStructure and Materials\nGold Aluminum Structure \nLed strings \n\nNumber of Leds\n\n\nPower Consuption",
+    "media": ""
   },
   {
-    "item": "",
+    "item": "RBR 043",
+    "product": "SWEET TEDDY",
+    "photo": "assets/used-rbr-043-sweet-teddy-3.jpg",
+    "quantity": 1,
+    "price": 9000,
+    "details": "Size in meters\n5,22 x 11,00 x 3,10 (height x Lenght x Depth)\n\nStructure and Materials\nAluminum Structure\nColoured Carpet\nLed strings + flashes\n\nNumber of Leds\n11800\n\nPower Consuption\n688 Watts",
+    "media": ""
+  },
+  {
+    "item": "RBR 048",
+    "product": "HALLOWEEN PUMPKIN",
+    "photo": "assets/used-rbr-048-halloween-pumpkin-3.jpg",
+    "quantity": 1,
+    "price": 13000,
+    "details": "Size in meters\n5,50 x 6,70 x 6,67 (height x Lenght x Depth)\n\nStructure and Materials\nWelded Aluminum Structure\nSheet Metal\nColoured Carpet\nLed strings \n\nNumber of Leds\n25200\n\nPower Consuption\n1820 Watts",
+    "media": "HALLOWEEN PUMPKIN\nhttps://1drv.ms/f/s!Apo1GIZ6idp6hUPpxdRHfPOhTkW1?e=CeUGSR"
+  },
+  {
+    "item": "RBR 062",
+    "product": "DOLPHIN",
+    "photo": "assets/used-rbr-062-dolphin-3.jpg",
+    "quantity": 1,
+    "price": 6400,
+    "details": "Size in meters\n2,55 x 2,30 x 1,50 (height x Lenght x Depth)\n\nStructure and Materials\nWelded Aluminum tube\nLed strings \nStrip led RGB\n\nNumber of Leds\n3600\n40m strip led rgb\n\nPower Consuption\n500 Watts",
+    "media": "UNDER WATER WORLD\nhttps://1drv.ms/f/s!Apo1GIZ6idp6hWY0PfUdxppu-YVE?e=jRQaKQ"
+  },
+  {
+    "item": "RBR 063",
+    "product": "SHARK",
+    "photo": "assets/used-rbr-063-shark-3.jpg",
+    "quantity": 1,
+    "price": 5500,
+    "details": "Size in meters\n1,62 x 2,60 x 1,00 (height x Lenght x Depth)\n\nStructure and Materials\nWelded Aluminum Structure\nAluminum Sheet\nLed strings \nNeon Flex Led\n\nNumber of Leds\n2200\n\nPower Consuption\n160 Watts",
+    "media": "UNDER WATER WORLD\nhttps://1drv.ms/f/s!Apo1GIZ6idp6hWY0PfUdxppu-YVE?e=jRQaKQ"
+  },
+  {
+    "item": "RBR 064",
+    "product": "OCTOPUS",
+    "photo": "assets/used-rbr-064-octopus-3.jpg",
+    "quantity": 1,
+    "price": 5400,
+    "details": "Size in meters\n1,76 x 2,00 x 2,00 (height x Lenght x Depth)\n\nStructure and Materials\nWelded Aluminum Structure\nAluminum Sheet\nLed strings \n\nNumber of Leds\n3600\n\nPower Consuption\n500 Watts",
+    "media": "UNDER WATER WORLD\nhttps://1drv.ms/f/s!Apo1GIZ6idp6hWY0PfUdxppu-YVE?e=jRQaKQ"
+  },
+  {
+    "item": "RBR 065",
+    "product": "JELLYFISH SPLASH",
+    "photo": "assets/used-rbr-065-jellyfish-splash-3.jpg",
+    "quantity": 1,
+    "price": 12500,
+    "details": "Size in meters\n5,27 x 2,80 x 2,80 (height x Lenght x Depth)\n\nStructure and Materials\nWelded Aluminum Structure\nAluminum Sheet\nRGB Leds\nLed strings + flashes\nStrip led RGB\n\nNumber of Leds\n5600\n90m strip led RGB\n\nPower Consuption\n620 Watts",
+    "media": "UNDER WATER WORLD\nhttps://1drv.ms/f/s!Apo1GIZ6idp6hWY0PfUdxppu-YVE?e=jRQaKQ"
+  },
+  {
+    "item": "RBR 066",
+    "product": "MANTA RAY TUNNEL",
+    "photo": "assets/used-rbr-066-manta-ray-tunnel-3.jpg",
+    "quantity": 1,
+    "price": 25000,
+    "details": "Size in meters\n3,00 x 7,00 x 3,50 (height x Lenght x Depth)\n\nStructure and Materials\nAluminum Structure\nNeon Flex led\nLed strings + flashes\n\nNumber of Leds\n6800 \n15m neon flex\n\nPower Consuption\n640 Watts",
+    "media": "UNDER WATER WORLD\nhttps://1drv.ms/f/s!Apo1GIZ6idp6hWY0PfUdxppu-YVE?e=jRQaKQ"
+  },
+  {
+    "item": "RBR 069",
+    "product": "TURTLE",
+    "photo": "assets/used-rbr-069-turtle-3.jpg",
+    "quantity": 1,
+    "price": 8700,
+    "details": "Size in meters\n2,05 x 2,90 x 3,25 (height x Lenght x Depth)\n\nStructure and Materials\nAluminum Structure\nAluminum Sheet\nLed strings \n\nNumber of Leds\n2600\n\nPower Consuption\n190 Watts",
+    "media": "UNDER WATER WORLD\nhttps://1drv.ms/f/s!Apo1GIZ6idp6hWY0PfUdxppu-YVE?e=jRQaKQ"
+  },
+  {
+    "item": "RBR 070",
+    "product": "PANEL ENTRANCE",
+    "photo": "assets/used-rbr-070-panel-entrance-3.jpg",
+    "quantity": 4,
+    "price": 3600,
+    "details": "Size in meters\n4,00 x 4,00 x 0,30 (height x Lenght x Depth)\n\nStructure and Materials\nAluminum Structure\nNeon Flex led\nLed strings + flashes\n\nNumber of Leds\n6800 + 15m neon flex\n\nPower Consuption\n640 Watts",
+    "media": "UNDER WATER WORLD\nhttps://1drv.ms/f/s!Apo1GIZ6idp6hWY0PfUdxppu-YVE?e=jRQaKQ"
+  },
+  {
+    "item": "RBR 081",
+    "product": "3D BALL BENCH",
+    "photo": "assets/used-rbr-081-3d-ball-bench-3.jpg",
+    "quantity": 1,
+    "price": 3000,
+    "details": "Size in meters\n2,6 x 2,3 x 1,6 (height x Lenght x Depth)\n\nStructure and Materials\nAluminum Structure\nAluminum Sheet\nLeds string + flash\nCarpet\n\nNumber of Leds\n3800\n\nPower Consuption\n290 Watts",
+    "media": ""
+  },
+  {
+    "item": "RBR 085",
     "product": "REINDEER TEDDY",
+    "photo": "assets/used-rbr-085-reindeer-teddy-3.jpg",
     "quantity": 1,
-    "price_eur": 5500,
-    "photo": "assets/used-reindeer-teddy.jpg"
-  },
-  {
-    "item": "",
-    "product": "MIRROR GOLD SPLIT TREE H 8 MT",
-    "quantity": 1,
-    "price_eur": 25000,
-    "photo": "assets/used-mirror-gold-split-tree-h-8-mt.jpg"
+    "price": 5500,
+    "details": "Size in meters\n5,50 x 5,30 x 1,00 (height x Lenght x Depth)\n\nStructure and Materials\nAluminum Structure\nAluminum Sheet\nRope Light Led\nLeds string \n\nNumber of Leds\n7900\n\nPower Consuption\n800 Watts",
+    "media": ""
   },
   {
     "item": "",
     "product": "CONE TREE 15 MT + STAR 2 MT\nWITHOUT BASE",
+    "photo": "assets/used-cone-tree-15-mt-star-2-mt-without-base-3.jpg",
     "quantity": 1,
-    "price_eur": 43000,
-    "photo": "assets/used-cone-tree-15-mt-star-2-mt-without-base.jpg"
+    "price": 43000,
+    "details": "Size in meters\n15 x 4,8 x 4,8 (height x Lenght x Depth)\n\nStructure and Materials\nAluminum Structure\nAluminum Sheet\nLeds string \nPVC Balls\n\nNumber of Leds\n\n\nPower Consuption",
+    "media": ""
   },
   {
-    "item": "RBR 055",
-    "product": "MEDIUM HALLOWEEN PUMPKIN H 5,5 MT",
+    "item": "RBR 094",
+    "product": "MIRROR SPLIT TREE",
+    "photo": "assets/used-rbr-094-mirror-split-tree-3.jpg",
     "quantity": 1,
-    "price_eur": 13000,
-    "photo": "assets/used-medium-halloween-pumpkin-h-55-mt.jpg"
+    "price": 25000,
+    "details": "Size in meters\n8,00 x 6,50 x 5,00 (height x Lenght x Depth)\n\nStructure and Materials\nAluminum Structure\nAluminum Sheet\nLeds string + flash\n\nNumber of Leds\n-\n\nPower Consuption\n-",
+    "media": "MIRROR SPIT TREE\nhttps://1drv.ms/f/s!Apo1GIZ6idp6hjdlgMcTvMfJaQvL?e=h5l9F3"
   },
   {
-    "item": "",
-    "product": "DOLPHIN",
+    "item": "RBR 095",
+    "product": "CHANDELIER TREE WITH BALLS",
+    "photo": "assets/used-rbr-095-chandelier-tree-with-balls-3.jpg",
     "quantity": 1,
-    "price_eur": 6400,
-    "photo": "assets/used-dolphin.jpg"
-  },
-  {
-    "item": "",
-    "product": "SHARK",
-    "quantity": 1,
-    "price_eur": 5500,
-    "photo": "assets/used-shark.jpg"
-  },
-  {
-    "item": "",
-    "product": "OCTOPUS",
-    "quantity": 1,
-    "price_eur": 5400,
-    "photo": "assets/used-octopus.jpg"
+    "price": 11500,
+    "details": "Size in meters \n11,00 x 3,50  x 3,50  (height x Lenght x Depth) Big\n\nStructure and Materials\nAluminum Structure\nAluminum Sheet\nLed strings \n196 PVC Balls (Big)\n\nNumber of Leds\n15300\n8000\nPower Consuption\n1100 Watts (Big)",
+    "media": "CHANDELIER TREE WITH BALLS\nhttps://1drv.ms/f/s!Apo1GIZ6idp6hkAMVWUEnPoa2Cok?e=LmLJNF"
   },
   {
     "item": "",
-    "product": "JELLYFISH SPLASH",
+    "product": "CHANDLIER",
+    "photo": "assets/used-chandlier-3.jpg",
     "quantity": 1,
-    "price_eur": 12500,
-    "photo": "assets/used-jellyfish-splash.jpg"
+    "price": 10000,
+    "details": "Size in meters \n10,50 x 4,7  x 4,70  (height x Lenght x Depth)\n\nStructure and Materials\nAluminum Structure\nAluminum Sheet\nLed strings \nPVC Balls\n\nNumber of Leds\n\nPower Consuption",
+    "media": ""
   },
   {
-    "item": "",
-    "product": "MANTA RAY TUNNEL",
+    "item": "RBR 097",
+    "product": "ARCH BALL",
+    "photo": "assets/used-rbr-097-arch-ball-3.jpg",
     "quantity": 1,
-    "price_eur": 25000,
-    "photo": "assets/used-manta-ray-tunnel.jpg"
+    "price": 5500,
+    "details": "Size in meters\n4,00 x 6,30 x 1,00 (height x Lenght x Depth)\n\nStructure and Materials\nAluminum Structure\nAlluminum Sheet\nPVC Balls\nLeds string\nRope light\n\nNumber of Leds\n6400\n\nPower Consuption\n470W",
+    "media": ""
   },
   {
-    "item": "",
-    "product": "TURTLE",
+    "item": "RBR 102",
+    "product": "T-REX",
+    "photo": "assets/used-rbr-102-t-rex-3.jpg",
     "quantity": 1,
-    "price_eur": 8700,
-    "photo": "assets/used-turtle.jpg"
+    "price": 28000,
+    "details": "Size in meters\n7,00 x 12,20  x 3,50  (height x Lenght x Depth)\n\nStructure and Materials\nRed Aluminum Structure\nRed Aluminum Sheet\nLed strings + flashes\n\nNumber of Leds\n19200\n\nPower Consuption\n1385 Watts",
+    "media": "T_REX\nhttps://1drv.ms/f/s!Apo1GIZ6idp6iBsvvf5H4OaP-3s5?e=x4dqSj"
   },
   {
-    "item": "",
-    "product": "PANEL ENTRANCE",
-    "quantity": 4,
-    "price_eur": 3600,
-    "photo": "assets/used-panel-entrance.jpg"
+    "item": "RBR 115",
+    "product": "SKIER RGB WITH SPIKE",
+    "photo": "assets/used-rbr-115-skier-rgb-with-spike-3.jpg",
+    "quantity": 1,
+    "price": 50000,
+    "details": "Size in meters\n4,00 x 7,80  x 2,70  (height x Lenght x Depth)\n     4 x 0,60  x 0,60  (height x Lenght x Depth)\n3,4 x 0,60  x 0,60  (height x Lenght x Depth)\n2,9 x 0,60  x 0,60  (height x Lenght x Depth)\n2,5 x 0,60  x 0,60  (height x Lenght x Depth)\n\nStructure and Materials\nAluminum Structure\nAluminum Sheet\nRGB Led Strings\nNeon flex Cold White 24 V\n\nNumber of Leds\n4000  RGB (skier)\n\nPower Consuption\n700 W  ( it depends by the scenography)",
+    "media": "SKIER\nhttps://1drv.ms/f/s!Apo1GIZ6idp6hkQGXn392XWWEmBu?e=VMZyrD"
   },
   {
-    "item": "",
-    "product": "RGB Whale",
+    "item": "RBR 126",
+    "product": "RGB WHALE",
+    "photo": "assets/used-rbr-126-rgb-whale-3.jpg",
     "quantity": 1,
-    "price_eur": 20000,
-    "photo": "assets/used-rgb-whale.jpg"
+    "price": 20000,
+    "details": "Size in meters\n3,5 x 7  x 6  (height x Lenght x Depth)\n\nStructure and Materials\nAluminum Structure\nAluminum Sheet\nRGB led light\n\n\nNumber of Leds\n9000\n\nPower Consuption\n200 Watts",
+    "media": ""
   },
   {
-    "item": "",
-    "product": "RGB SKIER (H 4MT) WITH BASE AND ICE SPIKE RGB  (8 PIECES)",
+    "item": "RBR 128",
+    "product": "SMALL SANTA WITH SLEIGH AND 3 REINDEERS",
+    "photo": "assets/used-rbr-128-small-santa-with-sleigh-and-3-reindeers-3.jpg",
     "quantity": 1,
-    "price_eur": 50000,
-    "photo": "assets/used-rgb-skier-h-4mt-with-base-and-ice-spike-rgb-8-pieces.jpg"
+    "price": 16000,
+    "details": "Size in meters\n2,70 x 8,70  x 4  (height x Lenght x Depth)\n\n\nStructure and Materials\nAluminum Structure\nAluminum Sheet\nLed strings + flashes\nCarpet\n\nNumber of Leds\n9000\n\nPower Consuption\n675 Watts",
+    "media": ""
   }
 ]
