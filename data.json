@@ -36,12 +36,12 @@
     "media": ""
   },
   {
-    "item": "RBR 043",
-    "product": "SWEET TEDDY",
+    "item": "",
+    "product": "SNOWMAN",
     "photo": "assets/used-rbr-043-sweet-teddy-3.jpg",
     "quantity": 1,
     "price": 9000,
-    "details": "Size in meters\n5,22 x 11,00 x 3,10 (height x Lenght x Depth)\n\nStructure and Materials\nAluminum Structure\nColoured Carpet\nLed strings + flashes\n\nNumber of Leds\n11800\n\nPower Consuption\n688 Watts",
+    "details": "Size in meters\n6,00 x 3,48 x 4,12 (height x Lenght x Depth)\n\nStructure and Materials\nAluminum Structure\nColoured Carpet\nLed strings \n\nNumber of Leds\n\n\nPower Consuption",
     "media": ""
   },
   {
@@ -50,7 +50,7 @@
     "photo": "assets/used-rbr-048-halloween-pumpkin-3.jpg",
     "quantity": 1,
     "price": 13000,
-    "details": "Size in meters\n5,50 x 6,70 x 6,67 (height x Lenght x Depth)\n\nStructure and Materials\nWelded Aluminum Structure\nSheet Metal\nColoured Carpet\nLed strings \n\nNumber of Leds\n25200\n\nPower Consuption\n1820 Watts",
+    "details": "Size in meters\n6,50 x 7,20 x 7,30 (height x Lenght x Depth)\n\nStructure and Materials\nWelded Aluminum Structure\nSheet Metal\nColoured Carpet\nLed strings \n\nNumber of Leds\n25200\n\nPower Consuption\n1820 Watts",
     "media": "HALLOWEEN PUMPKIN\nhttps://1drv.ms/f/s!Apo1GIZ6idp6hUPpxdRHfPOhTkW1?e=CeUGSR"
   },
   {
@@ -171,15 +171,6 @@
     "media": ""
   },
   {
-    "item": "RBR 097",
-    "product": "ARCH BALL",
-    "photo": "assets/used-rbr-097-arch-ball-3.jpg",
-    "quantity": 1,
-    "price": 5500,
-    "details": "Size in meters\n4,00 x 6,30 x 1,00 (height x Lenght x Depth)\n\nStructure and Materials\nAluminum Structure\nAlluminum Sheet\nPVC Balls\nLeds string\nRope light\n\nNumber of Leds\n6400\n\nPower Consuption\n470W",
-    "media": ""
-  },
-  {
     "item": "RBR 102",
     "product": "T-REX",
     "photo": "assets/used-rbr-102-t-rex-3.jpg",
@@ -187,15 +178,6 @@
     "price": 28000,
     "details": "Size in meters\n7,00 x 12,20  x 3,50  (height x Lenght x Depth)\n\nStructure and Materials\nRed Aluminum Structure\nRed Aluminum Sheet\nLed strings + flashes\n\nNumber of Leds\n19200\n\nPower Consuption\n1385 Watts",
     "media": "T_REX\nhttps://1drv.ms/f/s!Apo1GIZ6idp6iBsvvf5H4OaP-3s5?e=x4dqSj"
-  },
-  {
-    "item": "RBR 115",
-    "product": "SKIER RGB WITH SPIKE",
-    "photo": "assets/used-rbr-115-skier-rgb-with-spike-3.jpg",
-    "quantity": 1,
-    "price": 50000,
-    "details": "Size in meters\n4,00 x 7,80  x 2,70  (height x Lenght x Depth)\n     4 x 0,60  x 0,60  (height x Lenght x Depth)\n3,4 x 0,60  x 0,60  (height x Lenght x Depth)\n2,9 x 0,60  x 0,60  (height x Lenght x Depth)\n2,5 x 0,60  x 0,60  (height x Lenght x Depth)\n\nStructure and Materials\nAluminum Structure\nAluminum Sheet\nRGB Led Strings\nNeon flex Cold White 24 V\n\nNumber of Leds\n4000  RGB (skier)\n\nPower Consuption\n700 W  ( it depends by the scenography)",
-    "media": "SKIER\nhttps://1drv.ms/f/s!Apo1GIZ6idp6hkQGXn392XWWEmBu?e=VMZyrD"
   },
   {
     "item": "RBR 126",
